@@ -1,4 +1,4 @@
-# 🌿2019 March Daily Algorithm
+# 🌿 2019 March Daily Algorithm
 
 
 | Date          | Host         | Site Name  | Question Link                                                              |
@@ -12,11 +12,11 @@
 |               |              |            |  |
 
 
-# 👩‍💻Progress
+#  👩‍💻Progress
 
 ### godori 
-[0304 Mini-Max Sum](https://github.com/godori/today-algorithm/blob/master/0304_mini_max_sum.py)
-/ [0305 Grading Students](https://nothing)
+[03-04-mini-max-sum](https://github.com/godori/today-algorithm/blob/master/03-04-mini-max-sum.py)
+/ [03-05-grading](https://github.com/godori/today-algorithm/blob/master/03-05-grading.py)
 ### sweetroute
 ### 현정
 ### HeaIn
