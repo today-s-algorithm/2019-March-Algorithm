@@ -36,6 +36,7 @@
 ### HeaIn
 ### gyoungeunbae
 ### MinjeeKang
+[0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0302_MiniMaxSum.txt)
 
 ---
 ## 접기 양식
