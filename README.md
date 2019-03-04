@@ -14,3 +14,12 @@
 |               |              |            |               |                                                            |
 |               |              |            |               |                                                            |
 
+## Progress
+
+|                                                              | sweetroute | godori | 현정 | HeaIn | gyoungeunbae | MinjeeKang |
+| ------------------------------------------------------------ | ---------- | ------ | ---- | ----- | ------------ | ---------- |
+| [**0304(mon)** Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) |            |        |      |       |              |            |
+|                                                              |            |        |      |       |              |            |
+|                                                              |            |        |      |       |              |            |
+|                                                              |            |        |      |       |              |            |
+
