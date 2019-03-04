@@ -1,4 +1,4 @@
-# 2019 March Daily Algorithm
+# 🌿2019 March Daily Algorithm
 
 
 | Date          | Host         | Site Name  | Question Link                                                              |
@@ -10,10 +10,9 @@
 | **08** Fri    | gyoungeunbae |            |  |
 | **11** Mon    | MinjeeKang   |            |  |
 |               |              |            |  |
-|               |              |            |  |
 
 
-## Progress
+# 👩‍💻Progress
 
 ### godori 
 [0304 Mini-Max Sum](https://github.com/godori/today-algorithm/blob/master/0304_mini_max_sum.py)
@@ -24,3 +23,6 @@
 ### gyoungeunbae
 ### MinjeeKang
 [0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0302_javascriptNodeJS_MiniMaxSum.txt)
+
+
+**[⬆ Top](#)**
