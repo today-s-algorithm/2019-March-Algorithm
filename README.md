@@ -20,6 +20,8 @@
 ### sweetroute
 ### 현정
 ### HeaIn
+[03-04-mini-max-sum](https://github.com/HeaIn/TodayAlgorithm/blob/master/0304MinMaxSum.java)
+/ [03-05-grading-students](https://github.com/HeaIn/TodayAlgorithm/blob/master/0305GradingStudents.java)
 ### gyoungeunbae
 ### MinjeeKang
 [0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0304_javascriptNodeJS_MiniMaxSum.txt) / [0305 Grading Students](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0305_javascriptNodeJS_Grading%20Students.txt)
