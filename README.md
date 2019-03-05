@@ -22,8 +22,8 @@
 ### HeaIn
 ### gyoungeunbae
 ### MinjeeKang
-[0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0304_javascriptNodeJS_MiniMaxSum.txt)
-[Grading Students](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0305_javascriptNodeJS_Grading%20Students.txt)
+[0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0304_javascriptNodeJS_MiniMaxSum.txt) <br />
+[0305 Grading Students](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0305_javascriptNodeJS_Grading%20Students.txt)
 
 
 **[⬆ Top](#)**
