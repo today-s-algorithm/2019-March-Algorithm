@@ -5,7 +5,7 @@
 | ------------- | ------------ | ---------- | -------------------------------------------------------------------------- |
 | **04** Mon    | sweetroute   | Hackerrank | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) |
 | **05** Tue    | godori       | Hackerrank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  |
-| **06** Wed    | 현정          |            |  |
+| **06** Wed    | 현정         | Hackerrank  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
 | **07** Thu    | HeaIn        |            |  |
 | **08** Fri    | gyoungeunbae |            |  |
 | **11** Mon    | MinjeeKang   |            |  |
