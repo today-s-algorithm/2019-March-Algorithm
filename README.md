@@ -17,6 +17,7 @@
 ### godori 
 [03-04-mini-max-sum](https://github.com/godori/today-algorithm/blob/master/03-04-mini-max-sum.py)
 / [03-05-grading-students](https://github.com/godori/today-algorithm/blob/master/03-05-grading-students.py)
+/ [03-07-kangaroo](https://github.com/godori/today-algorithm/blob/master/03-07-kangaroo.py)
 ### sweetroute
 ### 현정
 ### HeaIn
