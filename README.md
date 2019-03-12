@@ -1,15 +1,18 @@
 # 🌿 2019 March Daily Algorithm
 
 
-| Date          | Host         | Site Name  | Question Link                                                              |
-| ------------- | ------------ | ---------- | -------------------------------------------------------------------------- |
-| **04** Mon    | sweetroute   | Hackerrank | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) |
-| **05** Tue    | godori       | Hackerrank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  |
-| **06** Wed    | 현정         | Hackerrank  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
-| **07** Thu    | HeaIn        | Hackerrank | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |
-| **08** Fri    | gyoungeunbae |            |  |
-| **11** Mon    | MinjeeKang   |            |  |
-|               |              |            |  |
+| Date |  Host       |  Question Link                                                             |
+|------| ----------- | -------------------------------------------------------------------------- |
+|04 Mon| sweetroute | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) |
+|05 Tue| godori | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |
+|06 Wed| 현정 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
+|07 Thu| HeaIn | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |
+|08 Fri| gyoungeunbae | |
+|11 Mon| MinjeeKang | |
+|12 Tue| godori | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) |
+|13 Wed| | |
+|14 Thu| | |
+|15 Fri| | |
 
 
 #  👩‍💻Progress
