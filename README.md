@@ -8,7 +8,7 @@
 |06 Wed| 현정 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
 |07 Thu| HeaIn | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |
 |08 Fri| gyoungeunbae | |
-|11 Mon| MinjeeKang | |
+|11 Mon| sweetroute | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem?h_r=internal-search) |
 |12 Tue| godori | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) |
 |13 Wed| | |
 |14 Thu| | |
@@ -22,6 +22,7 @@
 / [03-05-grading-students](https://github.com/godori/today-algorithm/blob/master/03-05-grading-students.py)
 / [03-07-kangaroo](https://github.com/godori/today-algorithm/blob/master/03-07-kangaroo.py)
 ### sweetroute
+[03-04-mini-max-sum](https://sweetroute.tistory.com/entry/HackerRankCMiniMax-Sum)
 ### 현정
 ### HeaIn
 [03-04-mini-max-sum](https://github.com/HeaIn/TodayAlgorithm/blob/master/0304MinMaxSum.java)
