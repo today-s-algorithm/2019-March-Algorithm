@@ -26,5 +26,5 @@
 ### MinjeeKang
 [0304 mini max sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0304_javascriptNodeJS_MiniMaxSum.txt) / [0305 Grading Students](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0305_javascriptNodeJS_Grading%20Students.txt)
 
-
 **[⬆ Top](#)**
+
