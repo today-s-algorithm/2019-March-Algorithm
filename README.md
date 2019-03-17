@@ -7,12 +7,22 @@
 |05 Tue| godori | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |
 |06 Wed| 현정 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
 |07 Thu| HeaIn | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |
-|08 Fri| gyoungeunbae | |
+|08 Fri| gyoungeunbae | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) |
 |11 Mon| sweetroute | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem?h_r=internal-search) |
 |12 Tue| godori | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) |
-|13 Wed| | |
-|14 Thu| | |
-|15 Fri| | |
+|13 Wed| - | |
+|14 Thu| - | |
+|15 Fri| HeaIn | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) |
+|18 Mon| gyoungeunbae | |
+|19 Tue| Minjee | |
+|20 Wed| sweetroute | |
+|21 Thu| godori | |
+|22 Fri| 현정 | |
+|25 Mon| HeaIn | |
+|26 Tue| gyoungeunbae | |
+|27 Wed| 밍지 ..!     | |
+|28 Thu| sweetroute | |
+|29 Fri| godori | |
 
 
 #  👩‍💻Progress
@@ -27,6 +37,7 @@
 ### HeaIn
 [03-04-mini-max-sum](https://github.com/HeaIn/TodayAlgorithm/blob/master/0304MinMaxSum.java)
 / [03-05-grading-students](https://github.com/HeaIn/TodayAlgorithm/blob/master/0305GradingStudents.java)
+
 ### gyoungeunbae
 ### MinjeeKang
 [03-04-mini-max-sum](https://github.com/MinjeeKang/devSkill/blob/master/todayAlgorithm/0304_javascriptNodeJS_MiniMaxSum.txt)
