@@ -13,8 +13,8 @@
 |13 Wed| - | |
 |14 Thu| - | |
 |15 Fri| HeaIn | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) |
-|18 Mon| gyoungeunbae | |
-|19 Tue| Minjee | |
+|18 Mon| gyoungeunbae |[sock-merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) |
+|19 Tue| Minjee |[camelcase](https://www.hackerrank.com/challenges/camelcase/problem) |
 |20 Wed| sweetroute | |
 |21 Thu| godori | |
 |22 Fri| 현정 | |
