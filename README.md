@@ -3,20 +3,20 @@
 
 | Date |  Host       |  Question Link                                                             |
 |------| ----------- | -------------------------------------------------------------------------- |
-|04 Mon| sweetroute | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) |
-|05 Tue| godori | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |
-|06 Wed| 현정 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|
-|07 Thu| HeaIn | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |
-|08 Fri| gyoungeunbae | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) |
-|11 Mon| sweetroute | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem?h_r=internal-search) |
-|12 Tue| godori | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) |
+|04 Mon| sweetroute | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) |
+|05 Tue| godori | [Grading Students](https://www.hackerrank.com/challenges/grading) |
+|06 Wed| 현정 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)|
+|07 Thu| HeaIn | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) |
+|08 Fri| gyoungeunbae | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) |
+|11 Mon| sweetroute | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation) |
+|12 Tue| godori | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) |
 |13 Wed| - | |
 |14 Thu| - | |
-|15 Fri| HeaIn | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) |
-|18 Mon| gyoungeunbae |[sock-merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) |
-|19 Tue| Minjee |[camelcase](https://www.hackerrank.com/challenges/camelcase/problem) |
+|15 Fri| HeaIn | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) |
+|18 Mon| gyoungeunbae |[sock-merchant](https://www.hackerrank.com/challenges/sock-merchant) |
+|19 Tue| Minjee |[camelcase](https://www.hackerrank.com/challenges/camelcase) |
 |20 Wed| sweetroute | |
-|21 Thu| godori | |
+|21 Thu| godori | [Marse Exploration](https://www.hackerrank.com/challenges/mars-exploration)|
 |22 Fri| 현정 | |
 |25 Mon| HeaIn | |
 |26 Tue| gyoungeunbae | |
@@ -31,6 +31,7 @@
 [03-04-mini-max-sum](https://github.com/godori/today-algorithm/blob/master/03-04-mini-max-sum.py)
 / [03-05-grading-students](https://github.com/godori/today-algorithm/blob/master/03-05-grading-students.py)
 / [03-07-kangaroo](https://github.com/godori/today-algorithm/blob/master/03-07-kangaroo.py)
+/ [03-13-migratory-birds](https://github.com/godori/today-algorithm/blob/master/03-13-migratory-birds.py)
 ### sweetroute
 [03-04-mini-max-sum](https://sweetroute.tistory.com/entry/HackerRankCMiniMax-Sum)
 ### 현정
