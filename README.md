@@ -15,7 +15,7 @@
 |15 Fri| HeaIn | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) |
 |18 Mon| gyoungeunbae |[sock-merchant](https://www.hackerrank.com/challenges/sock-merchant) |
 |19 Tue| Minjee |[camelcase](https://www.hackerrank.com/challenges/camelcase) |
-|20 Wed| sweetroute | |
+|20 Wed| sweetroute | 누락 ㅠ.ㅠ |
 |21 Thu| godori | [Marse Exploration](https://www.hackerrank.com/challenges/mars-exploration)|
 |22 Fri| 현정 | |
 |25 Mon| HeaIn | |
