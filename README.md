@@ -17,7 +17,7 @@
 |19 Tue| Minjee |[camelcase](https://www.hackerrank.com/challenges/camelcase) |
 |20 Wed| sweetroute | 누락 ㅠ.ㅠ |
 |21 Thu| godori | [Marse Exploration](https://www.hackerrank.com/challenges/mars-exploration)|
-|22 Fri| 현정 | |
+|22 Fri| 현정 | 또.. 누락 ㅠ.ㅠ|
 |25 Mon| HeaIn | |
 |26 Tue| gyoungeunbae | |
 |27 Wed| 밍지 ..!     | |
