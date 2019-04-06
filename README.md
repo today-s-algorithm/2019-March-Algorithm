@@ -35,6 +35,7 @@
 ### sweetroute
 [03-04-mini-max-sum](https://sweetroute.tistory.com/entry/HackerRankCMiniMax-Sum)
 / [03-05-Grading Students](https://sweetroute.tistory.com/entry/HackerRankCMars-Exploration)
+/ [03-06-Breaking the Records](https://sweetroute.tistory.com/entry/HackerRankCBreaking-the-Records)
 ### 현정
 ### HeaIn
 [03-04-mini-max-sum](https://github.com/HeaIn/TodayAlgorithm/blob/master/0304MinMaxSum.java)
